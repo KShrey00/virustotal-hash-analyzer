@@ -49,7 +49,7 @@ file-hash-analyzer/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/file-hash-analyzer.git
+git clone https://github.com/KShrey00/virustotal-hash-analyzer.git
 cd file-hash-analyzer
 ```
 
